@@ -1,1 +1,1 @@
-# odin-recipes
+In this project Im making a blog where i will share my moms recipe of some of my favourite dishes.
