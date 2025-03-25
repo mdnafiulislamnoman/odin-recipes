@@ -1,0 +1,52 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
+
+.navigation{
+    padding-left: 0px;
+}
+
+h1{
+    color: lightpink;
+    padding-left: 0px;
+}
+
+h4{
+    color: white;
+    padding-left: 0px;
+}
+
+.preview{
+    height: 50%;
+    width: 50%;
+    padding-left: 0px;
+    margin-bottom: 21.440px;
+}
+
+.Description{
+    background-color: #E7E8D1;
+    margin-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    margin-bottom: 21.440px;
+}
+
+.Ingredients{
+    background-color: #B85042;
+    margin-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    margin-bottom: 21.440px;
+}
+
+.Instructions{
+    background-color: #A7BEAE;
+    margin-right: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    margin-bottom: 21.440px;
+}
